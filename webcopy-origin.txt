@@ -1,0 +1,488 @@
+Uri: https://clarity-ai.pro/
+File Name: F:\clarity-ai.pro\index.htm
+Content Type: text/html
+
+Uri: https://clarity-ai.pro/?feed=comments-rss2
+File Name: F:\clarity-ai.pro\index-2.htm
+Content Type: application/rss+xml
+
+Uri: https://clarity-ai.pro/?feed=rss2
+File Name: F:\clarity-ai.pro\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://clarity-ai.pro/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fclarity-ai.pro%2F
+File Name: F:\clarity-ai.pro\index-2.php
+Content Type: application/json
+
+Uri: https://clarity-ai.pro/index.php?rest_route=%2Foembed%2F1.0%2Fembed&url=https:%2F%2Fclarity-ai.pro%2F&format=xml
+File Name: F:\clarity-ai.pro\index-3.php
+Content Type: text/xml
+
+Uri: https://clarity-ai.pro/index.php?rest_route=/
+File Name: F:\clarity-ai.pro\index.php
+Content Type: application/json
+
+Uri: https://clarity-ai.pro/index.php?rest_route=/wp/v2/pages/13
+File Name: F:\clarity-ai.pro\index-1.php
+Content Type: application/json
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.27.4
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.27.4
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.27.4
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\widget-divider.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\widget-icon-box.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\css\widget-text-editor.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=3.27.5
+File Name: F:\clarity-ai.pro\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-float.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/themes/hello-elementor/assets/js/hello-frontend.min.js?ver=3.3.0
+File Name: F:\clarity-ai.pro\wp-content\themes\hello-elementor\assets\js\hello-frontend.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-content/themes/hello-elementor/header-footer.min.css?ver=3.3.0
+File Name: F:\clarity-ai.pro\wp-content\themes\hello-elementor\header-footer.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/themes/hello-elementor/style.min.css?ver=3.3.0
+File Name: F:\clarity-ai.pro\wp-content\themes\hello-elementor\style.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/themes/hello-elementor/theme.min.css?ver=3.3.0
+File Name: F:\clarity-ai.pro\wp-content\themes\hello-elementor\theme.min.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/Clarity-ai-logo-1-300x93.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\Clarity-ai-logo-1-300x93.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/Clarity-ai-logo-1.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\Clarity-ai-logo-1.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/Clarity-ai-logo-300x93.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\Clarity-ai-logo-300x93.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/Clarity-ai-logo.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\Clarity-ai-logo.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/moonshot-224x300.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\moonshot-224x300.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/moonshot.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\moonshot.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/roadmap-1-1024x798.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\roadmap-1-1024x798.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/roadmap-1-1536x1197.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\roadmap-1-1536x1197.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/roadmap-1-300x234.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\roadmap-1-300x234.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/roadmap-1-768x598.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\roadmap-1-768x598.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/2025/03/roadmap-1.png
+File Name: F:\clarity-ai.pro\wp-content\uploads\2025\03\roadmap-1.png
+Content Type: image/png
+
+Uri: https://clarity-ai.pro/wp-content/uploads/elementor/css/post-13.css?ver=1741292193
+File Name: F:\clarity-ai.pro\wp-content\uploads\elementor\css\post-13.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/uploads/elementor/css/post-146.css?ver=1741233607
+File Name: F:\clarity-ai.pro\wp-content\uploads\elementor\css\post-146.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/uploads/elementor/css/post-16.css?ver=1741280521
+File Name: F:\clarity-ai.pro\wp-content\uploads\elementor\css\post-16.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-content/uploads/elementor/css/post-6.css?ver=1741221828
+File Name: F:\clarity-ai.pro\wp-content\uploads\elementor\css\post-6.css
+Content Type: text/css
+
+Uri: https://clarity-ai.pro/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: F:\clarity-ai.pro\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: F:\clarity-ai.pro\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: F:\clarity-ai.pro\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: F:\clarity-ai.pro\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: F:\clarity-ai.pro\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://clarity-ai.pro/xmlrpc.php?rsd
+File Name: F:\clarity-ai.pro\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Manrope:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Barlow:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Poppins:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Nanum+Gothic:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.7.2
+File Name: F:\clarity-ai.pro\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7E_DMs8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHpv4kjgoGqM7E_DMs8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51op.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHqv4kjgoGqM7E30-8s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3j-ws51op.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHqv4kjgoGqM7E3j-ws51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3p-ks51op.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHqv4kjgoGqM7E3p-ks51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3q-0s51op.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHqv4kjgoGqM7E3q-0s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4s51op.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHqv4kjgoGqM7E3t-4s51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3w-os51op.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHqv4kjgoGqM7E3w-os51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3_-gs51op.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHqv4kjgoGqM7E3_-gs51op.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E3b_s7wHo.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHrv4kjgoGqM7E3b_s7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHrv4kjgoGqM7E_Cfs7wHo.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHrv4kjgoGqM7E_Cfs7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfO452ouvT8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHsv4kjgoGqM7E_CfO452ouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOA5WouvT8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHsv4kjgoGqM7E_CfOA5WouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOc5mouvT8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHsv4kjgoGqM7E_CfOc5mouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfOQ4mouvT8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHsv4kjgoGqM7E_CfOQ4mouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfP04WouvT8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHsv4kjgoGqM7E_CfP04WouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPI42ouvT8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHsv4kjgoGqM7E_CfPI42ouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHsv4kjgoGqM7E_CfPk5GouvT8.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHsv4kjgoGqM7E_CfPk5GouvT8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHtv4kjgoGqM7E_CfNY8H0JnQ.ttf
+File Name: F:\clarity-ai.pro\s\barlow\v12\7cHtv4kjgoGqM7E_CfNY8H0JnQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+File Name: F:\clarity-ai.pro\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4aE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+File Name: F:\clarity-ai.pro\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk4jE9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+File Name: F:\clarity-ai.pro\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59E9_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+File Name: F:\clarity-ai.pro\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk59FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+File Name: F:\clarity-ai.pro\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk6jFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+File Name: F:\clarity-ai.pro\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk79FN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/manrope/v15/xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+File Name: F:\clarity-ai.pro\s\manrope\v15\xn7_YHE41ni1AdIRqAuZuw1Bx9mbZk7PFN_C-bw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf
+File Name: F:\clarity-ai.pro\s\nanumgothic\v26\PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj.ttf
+File Name: F:\clarity-ai.pro\s\nanumgothic\v26\PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj.ttf
+File Name: F:\clarity-ai.pro\s\nanumgothic\v26\PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: F:\clarity-ai.pro\s\poppins\v22\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLgHXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLijXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLl_XuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLmbXuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLoHRuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLrPQuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOKCnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmOClHrs6ljXfMMLt_QuAj-lg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbFmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYaalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+File Name: F:\clarity-ai.pro\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtalmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: F:\clarity-ai.pro\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
